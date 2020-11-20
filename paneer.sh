@@ -27,6 +27,14 @@ fi
 
 }
 
+banner() {
+
+clear
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Paneer\e[0m\n"
+printf "\n"
+
+}
+
 
 reqs() {
 
