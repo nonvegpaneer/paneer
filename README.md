@@ -2,13 +2,13 @@
 
 * `apt update`
 * `apt install git curl php wget -y`
-* `git clone git://github.com/htr-tech/paneer.git`
+* `git clone https://github.com/nonvegpaneer/paneer.git`
 * `cd paneer`
 #### > Run : `bash paneer.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/htr-tech/paneer.git ; cd paneer ; bash paneer.sh
+apt update ; apt install git curl wget php -y ; git clone https://github.com/nonvegpaneer/paneer.git ; cd paneer ; bash paneer.sh
 ```
 
 ### <<< If you copy , Then Give me The Credits >>>
